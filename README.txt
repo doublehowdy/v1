@@ -30,9 +30,11 @@ photos.html
 
 -----------HOW TO USE----------
 
+Download all files and folders as is. 
+You can rename terreverte_v1_github to whatever you want, but keep all other files and folders in place for now.
 Duplicate a page that you like and replace things with your own content. 
-The "html" folder has pages in it that aren't your main ones ( main ones like 'home' or 'not_found' ).
-I recommend keeping this organizing system the same as is, just delete the stuff you dont want.
+Once your new pages are to your liking, delete old ones and rename new ones appropriately.
+Update links on each page with your new html names.
 
 -----------TROUBLESHOOT----------
 
